@@ -1,6 +1,5 @@
 # Bomberman-en-Java
 
-
 Proyecto realizado en el contexto de la materia Programación orientada a objetos
 
 El objetivo del proyecto era hacer una recreación del juego "Bomberman" en Java utilizando el paradigma orientado a objetos
